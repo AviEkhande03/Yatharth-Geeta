@@ -1,0 +1,2 @@
+/Users/mypcotdevelopment/yatharthageeta-app/android/app/.cxx/RelWithDebInfo/4a324n2x/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/mypcotdevelopment/yatharthageeta-app/android/app/.cxx/RelWithDebInfo/4a324n2x/armeabi-v7a/CMakeFiles/rebuild_cache.dir

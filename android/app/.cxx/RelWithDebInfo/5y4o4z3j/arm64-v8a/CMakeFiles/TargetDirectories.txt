@@ -1,0 +1,2 @@
+/Users/mypcotdevelopment/flutter development/avinash/yatharthageeta-app/android/app/.cxx/RelWithDebInfo/5y4o4z3j/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/mypcotdevelopment/flutter development/avinash/yatharthageeta-app/android/app/.cxx/RelWithDebInfo/5y4o4z3j/arm64-v8a/CMakeFiles/rebuild_cache.dir

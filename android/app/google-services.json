@@ -1,0 +1,87 @@
+{
+  "project_info": {
+    "project_number": "1074079544187",
+    "project_id": "yatharth-geeta-prod-76169",
+    "storage_bucket": "yatharth-geeta-prod-76169.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074079544187:android:f206b7ab78ba969eed03de",
+        "android_client_info": {
+          "package_name": "com.yatharthgeeta.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074079544187-bd8bqcbtff1e674khn0nfn9lodiepaoh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yatharthgeeta.user",
+            "certificate_hash": "91174ae2b16de97526fae3a42866312b35d2aedb"
+          }
+        },
+        {
+          "client_id": "1074079544187-nicuu31af2t6onv4gvdhte8nv1412e3g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yatharthgeeta.user",
+            "certificate_hash": "2fd7c7229c0a5071d97f336a1e72c288242c0625"
+          }
+        },
+        {
+          "client_id": "1074079544187-on3592a7rq9cpu5pnq890jpmtbm7a8uv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yatharthgeeta.user",
+            "certificate_hash": "b885b4f296dcecdb6fa7b0ddc1ba3c56db8a6acf"
+          }
+        },
+        {
+          "client_id": "1074079544187-sc4iik5debbe22olabquqsqup5dbk8nm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yatharthgeeta.user",
+            "certificate_hash": "0512df8ab97b15d9faed750ea773ba2f39b882ea"
+          }
+        },
+        {
+          "client_id": "1074079544187-t5enetjv4t83fh02ke8rr4kfsib4lsr1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yatharthgeeta.user",
+            "certificate_hash": "64bcc89c0b7cb0ea12696259966489e45cb440ec"
+          }
+        },
+        {
+          "client_id": "1074079544187-7qhpv4s2gksfkmlrp7oqgn2f8beal82g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs9b9KqFix7WiInaeAfxR14N0kdiMDfho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074079544187-7qhpv4s2gksfkmlrp7oqgn2f8beal82g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1074079544187-35aarl8lm9nchoa7lshe2s05k4sfqcig.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.yatharthgeeta.user",
+                "app_store_id": "6473667017"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

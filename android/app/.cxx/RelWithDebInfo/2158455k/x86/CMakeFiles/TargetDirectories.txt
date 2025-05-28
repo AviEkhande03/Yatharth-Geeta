@@ -1,0 +1,2 @@
+D:/Vaibhav/Ongoing projects/yatharthageeta-app/android/app/.cxx/RelWithDebInfo/2158455k/x86/CMakeFiles/edit_cache.dir
+D:/Vaibhav/Ongoing projects/yatharthageeta-app/android/app/.cxx/RelWithDebInfo/2158455k/x86/CMakeFiles/rebuild_cache.dir
